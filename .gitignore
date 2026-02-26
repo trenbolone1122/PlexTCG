@@ -1,24 +1,11 @@
-# Secrets
 key.txt
-
-# Database (local cache, regenerated automatically)
-pokepulse.db
 *.db
-
-# Node / build artifacts
 node_modules/
-package.json
-package-lock.json
-app.js
-
-# Base64 / binary data files
 mew_b64.txt
 mew_const.txt
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Editor
-.vscode/
-.idea/
+app.js
+package.json
+package-lock.json
+__pycache__/
+*.pyc
+.env
